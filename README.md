@@ -1,11 +1,11 @@
-Sales Data Analysis Project
+#**Sales Data Analysis Project**
 
-Project Overview
+##**Project Overview**
 
 This project analyzes sales data to understand business performance, identify trends, and generate insights.
 The analysis includes data cleaning, transformation, SQL queries, and visualization.
 
-Tools & Technologies Used
+##**Tools & Technologies Used**
 
 - Python
 - SQL
@@ -13,7 +13,7 @@ Tools & Technologies Used
 - Power BI
 - Jupyter Notebook
 
-Project Workflow
+##**Project Workflow**
 
 1. Data Loading
    
@@ -34,7 +34,7 @@ Project Workflow
    
    - Created dashboards using Power BI.
 
-Dashboard Insights
+##**Dashboard Insights**
 
 The Power BI dashboard provides insights such as:
 
@@ -43,18 +43,18 @@ The Power BI dashboard provides insights such as:
 - Total Sales vs Cost
 - Profit Analysis
 
-Project Files
+##**Project Files**
 
 - "sales_analysis.ipynb" – Python analysis in Jupyter Notebook
 - "sales_data.xlsx" – Cleaned dataset
 - "sales_dashboard.pbix" – Power BI dashboard file
 
-Key Insights
+##**Key Insights**
 
 - Identified top performing products.
 - Compared sales performance across regions.
 - Analyzed profit trends.
 
-Author
+##**Author**
 
 Sales Data Analysis Project created for learning and portfolio development in Data Analytics.
