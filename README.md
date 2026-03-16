@@ -53,6 +53,7 @@ The Power BI dashboard provides insights such as:
 
 - Identified top performing products.
 - Compared sales performance across regions.
+
 - Analyzed profit trends.
 
 **Author**
