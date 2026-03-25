@@ -57,5 +57,5 @@ The Power BI dashboard provides insights such as:
 - Analyzed profit trends.
 
 **Author**
-
-Sales Data Analysis Project created for learning and portfolio development in Data Analytics.
+G.Sai Kiran.
+Sales Data Analysis Project created for learning and portfolio development in Data Analytics
